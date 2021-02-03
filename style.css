@@ -129,11 +129,9 @@ footer i {
 
   .image {
     flex: 1;
-    margin-right: 2rem;
   }
 
   .text {
-    margin-left: 2rem;
     flex: 1;
   }
 
